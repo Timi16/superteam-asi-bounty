@@ -1,1 +1,0 @@
-//Event/message type constants for channels
