@@ -1,0 +1,1 @@
+//Helper functions (uuid, time, scoring)
